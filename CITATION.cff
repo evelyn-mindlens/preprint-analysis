@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite it as below."
+title: "preprint-analysis: Analysis code for the two 2026 MindLens Lab preprints"
+version: "1.0.0"
+date-released: "2026-08-30"
+url: "https://github.com/evelyn-mindlens/preprint-analysis"
+license: MIT
+type: software
+authors:
+  - family-names: "Kim"
+    given-names: "Evelyn"
+    orcid: "https://orcid.org/0009-0002-6649-5141"
+    affiliation: "MindLens Lab · Singapore American School"
+references:
+  - type: article
+    authors:
+      - family-names: "Kim"
+        given-names: "Evelyn"
+    title: "Plural Emotion Reading in Short Social Video Clips"
+    year: 2026
+    journal: "PsyArXiv"
+    doi: "TBA"
+  - type: article
+    authors:
+      - family-names: "Kim"
+        given-names: "Evelyn"
+    title: "Where One AI Diverges from Plural Human Readings"
+    year: 2026
+    journal: "PsyArXiv"
+    doi: "TBA"
