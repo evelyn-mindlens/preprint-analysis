@@ -9,7 +9,7 @@ Analysis code for the two 2026 MindLens Lab preprints on emotion perception.
 
 ## Related preprints
 
-- Kim, E. (2026a). *Plural Emotion Reading in Short Social Video Clips.* PsyArXiv. DOI: TBA.
+- Kim, E. (2026a). *Plural Emotion Readings in Short Social Video Clips.* PsyArXiv. DOI: TBA.
 - Kim, E. (2026b). *Where One AI Diverges from Plural Human Readings.* PsyArXiv. DOI: TBA.
 
 ## What is in this repository
