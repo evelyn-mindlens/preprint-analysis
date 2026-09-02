@@ -9,8 +9,8 @@ Analysis code for the two 2026 MindLens Lab preprints on emotion perception.
 
 ## Related preprints
 
-- Kim, E. (2026a). *Plural Emotion Readings in Short Social Video Clips.* PsyArXiv. DOI: TBA.
-- Kim, E. (2026b). *Where One AI Diverges from Plural Human Readings.* PsyArXiv. DOI: TBA.
+- Kim, E. (2026a). *Plural Emotion Readings in Short Social Video Clips.* Zenodo. https://doi.org/10.5281/zenodo.22251335
+- Kim, E. (2026b). *Where One AI Diverges from Plural Human Readings.* Zenodo. https://doi.org/10.5281/zenodo.22253369
 
 ## What is in this repository
 
@@ -21,7 +21,7 @@ This repository holds the Python scripts used to generate figures and to run the
 
 ## Where the data is
 
-Anonymized participant response data are hosted on the Open Science Framework alongside the PsyArXiv preprints. Once the OSF DOI is issued, place the CSV files (`per_clip_stats_adults_final.csv`, `paper2_3condition_comparison_adults.csv`, `stochasticity_results.csv`) in the same directory as the scripts to reproduce the figures.
+Anonymized participant response data are hosted on the Open Science Framework alongside the Zenodo preprints. Once the OSF DOI is issued, place the CSV files (`per_clip_stats_adults_final.csv`, `paper2_3condition_comparison_adults.csv`, `stochasticity_results.csv`) in the same directory as the scripts to reproduce the figures.
 
 - **OSF Project:** DOI TBA.
 

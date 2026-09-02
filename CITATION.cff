@@ -18,13 +18,13 @@ references:
         given-names: "Evelyn"
     title: "Plural Emotion Readings in Short Social Video Clips"
     year: 2026
-    journal: "PsyArXiv"
-    doi: "TBA"
+    journal: "Zenodo"
+    doi: "10.5281/zenodo.22251335"
   - type: article
     authors:
       - family-names: "Kim"
         given-names: "Evelyn"
     title: "Where One AI Diverges from Plural Human Readings"
     year: 2026
-    journal: "PsyArXiv"
-    doi: "TBA"
+    journal: "Zenodo"
+    doi: "10.5281/zenodo.22253369"
